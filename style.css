@@ -1,0 +1,94 @@
+.grey{
+background-color:#35424a;
+border-bottom: 3px solid orange;
+height: 160px;
+}
+
+.rubrik{
+color: orange !important;
+
+}
+.search-bar {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+   
+    
+}
+.search-button {
+    padding: 14px 20px;
+    background-color: orange;
+    color: white; 
+    border: none;
+    border-radius: 0 5px 5px 0;
+    cursor: pointer;
+  
+}
+.ett{
+display: flex;
+flex-direction: row;
+text-align: center;
+justify-content: space-around;
+line-height: 120px;
+}
+.two{
+color: white;
+
+}
+
+
+.middle{
+display: flex;
+flex-direction: column;
+text-align: center;
+padding: 50px;
+height: 300px;
+color: white;
+background-image: url(./IMG/showcase.jpg);
+
+}
+.bottom{
+background-color:#35424a;
+border-top: 3px solid orange;
+border-bottom: 3px solid orange;
+color: white;
+height: 125px;
+}
+
+.bilderruta{
+display: flex;
+flex-direction: row;
+text-align: center;
+}
+.left{
+
+border: 2px solid yellow;
+padding: 3%;
+}
+.middletext{
+border: 2px solid yellow;
+padding: 3%;
+}
+.right{
+border: 2px solid yellow;
+padding: 3%;   
+}
+
+.bottomtext{
+background-color: #e8491d;
+height: 70px;
+text-align: center;
+color: white;
+line-height: 75px;
+border-bottom: 2px solid black;
+}
+.search{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+margin: 25px;
+}
+
